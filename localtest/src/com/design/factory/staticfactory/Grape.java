@@ -1,6 +1,6 @@
 package com.design.factory.staticfactory;
 /**
- * фоля
+ * Х▒║Х░└
  * @author Jason
  *
  */

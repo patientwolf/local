@@ -1,6 +1,6 @@
 package com.design.factory.staticfactory;
 /**
- * 静态工厂的使用
+ * 闈欐�佸伐鍘傛祴璇曠被
  */
 public class TestStaticFactory {
 	public static void main(String args[]) {
@@ -9,7 +9,7 @@ public class TestStaticFactory {
 		if(f!=null){
 			f.say(); 
 		} else {
-			System.out.println("没有此类水果");
+			System.out.println("no such friut");
 		}
 	}
 }

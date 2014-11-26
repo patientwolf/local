@@ -1,7 +1,6 @@
 package com.design.factory.staticfactory;
 /**
- * ¹¤³§Ä£Ê½¡ª¡ª¾²Ì¬¹¤³§Ä£Ê½
- * ³éÏó³öÒ»¸öË®¹û½Ó¿Ú
+ * å·¥å‚æ¨¡å¼â€”â€”é™æ€å·¥å‚
  * @author Jason
  *
  */
